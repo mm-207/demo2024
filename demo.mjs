@@ -1,1 +1,1 @@
-console.log("Hello Class");
+console.log("Hello Class of 2024");
